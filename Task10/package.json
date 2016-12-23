@@ -1,0 +1,31 @@
+{
+  "name": "cdp_aqa_q3q4_2016",
+  "version": "1.0.0",
+  "description": "this is only text file for master branch",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitbud.epam.com/Valeriia_Trumanidze/cdp_aqa_q3q4_2016.git"
+  },
+  "keywords": [],
+  "author": "Valeriia Trumanidze",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "gulp": "^3.9.1",
+    "selenium-standalone": "^5.9.0",
+    "typescript": "^2.1.4",
+    "webdriverio": "^4.5.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jasmine": "^2.5.2",
+    "protractor": "^4.0.14",
+    "selenium-webdriver": "^3.0.1",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-protractor": "^3.0.0"
+  }
+}
